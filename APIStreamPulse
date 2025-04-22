@@ -1,0 +1,23 @@
+
+---
+
+### **2. 33_APIStreamPulse**  
+**Description:**  
+Real-time API health tracker focusing on detecting sudden changes and latency spikes across services.
+
+#### **README.md**
+```markdown
+# APIStreamPulse - API Health & Latency Monitor
+
+APIStreamPulse monitors API endpoints continuously and highlights downtime, surges, and performance degradation.
+
+## Features
+- Continuous endpoint tracking  
+- Burst + timeout alerting  
+- Export to CSV/JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_APIStreamPulse.git
+cd 33_APIStreamPulse
+python monitor.py
