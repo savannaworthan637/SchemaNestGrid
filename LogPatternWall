@@ -1,0 +1,23 @@
+
+---
+
+### **3. 33_LogPatternWall**  
+**Description:**  
+Log burst analyzer that stacks and displays patterns to surface repetition and anomaly clusters.
+
+#### **README.md**
+```markdown
+# LogPatternWall - Repetition-Based Log Analyzer
+
+LogPatternWall helps engineers visualize clustered warnings, trace repetition waves, and filter noise in system logs.
+
+## Features
+- Stack-based pattern view  
+- Burst detection logic  
+- CLI heatmap export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/33_LogPatternWall.git
+cd 33_LogPatternWall
+python analyze.py
